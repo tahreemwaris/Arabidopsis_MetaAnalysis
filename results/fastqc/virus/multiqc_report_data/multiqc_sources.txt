@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	TCV_Control_1_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_1_R1_fastqc.zip
+FastQC	all_sections	TCV_Control_1_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_1_R2_fastqc.zip
+FastQC	all_sections	TCV_Control_2_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_2_R1_fastqc.zip
+FastQC	all_sections	TCV_Control_2_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_2_R2_fastqc.zip
+FastQC	all_sections	TCV_Control_3_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_3_R1_fastqc.zip
+FastQC	all_sections	TCV_Control_3_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Control_3_R2_fastqc.zip
+FastQC	all_sections	TCV_Stressed_1_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_1_R1_fastqc.zip
+FastQC	all_sections	TCV_Stressed_1_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_1_R2_fastqc.zip
+FastQC	all_sections	TCV_Stressed_2_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_2_R1_fastqc.zip
+FastQC	all_sections	TCV_Stressed_2_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_2_R2_fastqc.zip
+FastQC	all_sections	TCV_Stressed_3_R1	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_3_R1_fastqc.zip
+FastQC	all_sections	TCV_Stressed_3_R2	/home/tahreem/Arabidopsis_Stress_MetaAnalysis/results/fastqc/virus/TCV_Stressed_3_R2_fastqc.zip

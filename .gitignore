@@ -1,0 +1,9 @@
+data/
+logs/
+nohup.out
+analysis/raw_*
+analysis/*cache*
+*.fastq.gz
+*.bam
+*.sam
+*.sra
