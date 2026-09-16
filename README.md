@@ -8,7 +8,7 @@ An end-to-end computational pipeline for multi-condition RNA-seq meta-analysis, 
 
 Plants under natural conditions frequently encounter concurrent environmental stresses. This repository contains an automated, reproducible workflow used to identify the core pan-stress transcriptomic signature of *Arabidopsis thaliana* across six distinct experimental regimes:
 * **Abiotic Stresses:** Heat Shock (37°C), Cold (4°C), Drought / Dehydration, Salinity (150 mM NaCl)
-* **Biotic Stresses:** Bacterial pathogen (*Pseudomonas syringae* pv. *tomato* DC3000) and Viral pathogen (*Turnip Crinkle Virus*, TCV)
+* **Biotic Stresses:** Bacterial pathogen (*Pseudomonas syringae* pv. *tomato* DC3000) and Viral pathogen (*Turnip Crinkle Virus*, TCV) and whitefly
 
 Using individual negative binomial differential expression modeling, random-effects meta-analysis (DerSimonian-Laird), STRING interactome topology analysis, and cytoHubba Maximal Clique Centrality (MCC), this workflow isolates the conserved multi-organelle proteostasis network required for universal stress resilience.
 
